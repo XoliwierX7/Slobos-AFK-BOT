@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Technoblade",
+    "username": "ChomikBot",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobos13.aternos.me",
-    "port": 29195,
-    "version": "1.21.1"
+    "ip": "chomik_gg.aternos.me",
+    "port": 54323,
+    "version": "1.21.10"
   },
   "position": {
     "enabled": true,
